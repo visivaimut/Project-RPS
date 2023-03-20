@@ -23,4 +23,4 @@ if choice == 3 and computer == 1:
 elif choice == 3 and computer == 2:
     print(f"\nYOU: {hand[choice-1]} \tVS\t {hand[computer-1]} :COMPUTER\n\nYOU WIN!!!\n")
 
-print("\n\n CONGRATULATIONS\n\n ")
+print("\n CONGRATULATIONS\n\n ")
